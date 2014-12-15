@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  last_name: MyString
+  first_name: MyString
+  country: MyString
+  points: 1
+  week_change: 1
+  tournaments_played: 1
+
+two:
+  last_name: MyString
+  first_name: MyString
+  country: MyString
+  points: 1
+  week_change: 1
+  tournaments_played: 1
